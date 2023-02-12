@@ -1,0 +1,9 @@
+.container2 {
+    font-size: 40px;
+    min-height: 100px;
+    width: 100%;
+    background: Silver;
+    display: grid;
+    /* Only change code below this line */
+
+    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
